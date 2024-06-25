@@ -1,2 +1,2 @@
-# product-preview-card-component-main
-product-preview-card-component-main
+# Крточка духов
+[Demo]https://tudovchanin.github.io/product-preview-card-component-main/
